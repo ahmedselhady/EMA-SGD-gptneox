@@ -1,0 +1,5 @@
+# ninja log v5
+2	70401	1706015733000000000	/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/build/temp.linux-x86_64-cpython-310/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/scaled_upper_triang_masked_softmax.o	6589c074f6d1c554
+2	119165	1706015782000000000	/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/build/temp.linux-x86_64-cpython-310/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/scaled_upper_triang_masked_softmax_cuda.o	438438de17104224
+5	24974	1706015808000000000	/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/build/temp.linux-x86_64-cpython-310/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/scaled_masked_softmax.o	979c5f0eb1713fff
+5	74963	1706015858000000000	/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/build/temp.linux-x86_64-cpython-310/leonardo_work/EUHPC_E02_013/gpt-neox/megatron/fused_kernels/scaled_masked_softmax_cuda.o	81fe27825cc3d3da
